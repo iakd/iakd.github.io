@@ -11,5 +11,5 @@ SHA256: 04cbd159ee2b81889427e753fff14372ad35405641ec4c1f30ea0183a25e09a7
 Section: Tweaks
 Description: Launch all apps in a folder
 Author: iakd
-Depiction: http://iakd.github.io/depic/index.html
-Name: Tweakname
+Depiction: http://iakd.github.io/depic/folderlauncher/index.html
+Name: FolderLauncher
