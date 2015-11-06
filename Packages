@@ -9,7 +9,7 @@ MD5sum: 7f892d0e58ce8ca00357ec70a870529c
 SHA1: eb011a288ddbed36fb24d22d7e1200eb184880de
 SHA256: 04cbd159ee2b81889427e753fff14372ad35405641ec4c1f30ea0183a25e09a7
 Section: Tweaks
-Description: Launch all apps in a folder1
+Description: Launch all apps in a folder
 Author: iakd
 Depiction: http://iakd.github.io/depictions/folderlauncher/index.html
 Name: FolderLauncher
