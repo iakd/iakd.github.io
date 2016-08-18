@@ -14,3 +14,20 @@ Description: Launch all apps in a folder
 Author: iakd
 Depiction: http://iakd.github.io/depictions/folderlauncher/index.html
 Name: FolderLauncher
+
+Package: de.iakdev.actification
+Version: 0.1-24
+Architecture: iphoneos-arm
+Maintainer: iakd
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator (>= 1.9.5)
+Filename: debs//de.iakdev.actification_0.1-24_iphoneos-arm.deb
+Size: 19810
+Installed-Size: 204
+MD5sum: db79fb60933efb1ebca9cb60209717e1
+SHA1: 5080e4b8df59342758da48625d9d415109255a8d
+SHA256: 9caf209fbbd3093a21f5c133bb0c2634626e13cd29840a12dfd301c482234a57
+Section: Tweaks
+Description: Send notifications from Activator
+Author: iakd
+Depiction: http://iakd.github.io/depictions/actification/index.html
+Name: Actification
