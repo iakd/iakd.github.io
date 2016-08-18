@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<h1>Actification</h1>
+		<p>Supports iOS 8 and 9</p>
+		
+		<p>
+		Creating custom notifications:<br>
+		After you installed the tweak, a folder "Actification" will be created in "/var/mobile/" on you iDevice. All your custom notifications will be placed in it.
+		</p>
+		
+		<p>
+		<ul>
+		<li>Navigate to "/var/mobile/Actification/" using your favorite filebrowser (on iDevice: e.g. Filza).</li>
+		<li>You will see an existing example notification file called "Example.plist". Duplicate this file and give the copy a useful name, but keep the .plist ending (e.g. MyFirstNotification.plist).</li>
+		<li>Now open your new notification file with either a plist-editor or text-editor.
+		The file basically contains three sections/keys with simple text values you can edit:</li>
+		<div style="text-indent:30px;"><u>NotificationTitle</u>: specifies the headline text of your notification (in the example the headline is "Example Notification")<br></div>
+		<div style="text-indent:30px;"><u>NotificationContent</u>: specifies the body text of your notification (in the example the body text is "This is an example message sent with Actification")<br></div>
+		<div style="text-indent:30px;"><u>NotificationOrigin</u>: specifies the icon of your notification (I would recommend to keep "com.apple.MobileSMS" like in the example)<br></div>
+		<li>After you saved your new notification just respring/reboot your iDevice and the notifications will be assignable in Activator.</li>
+		</ul>
+		</p>
+	</body>
+</html>
