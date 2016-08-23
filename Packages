@@ -31,3 +31,20 @@ Description: Send notifications from Activator
 Author: iakd
 Depiction: http://iakd.github.io/depictions/actification/index.html
 Name: Actification
+
+Package: de.iakdev.notificationsfirst
+Version: 1.0-11
+Architecture: iphoneos-arm
+Maintainer: iakd
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator (>= 1.9.5)
+Filename: debs//de.iakdev.notificationsfirst_1.0-11_iphoneos-arm.deb
+Size: 8060
+Installed-Size: 200
+MD5sum: 5ccea205e55eb178fc82c746e1f79da0
+SHA1: bf75f1025f3540e40ddb9b3ee3dd8d85271c94ea
+SHA256: c19ee7be5c195d8b0565e8c5d870af64e2c3dc12811427421f183752c8f76c06
+Section: Tweaks
+Description: Swap Today and Notifications pages in NC
+Author: iakd
+Depiction: http://iakd.github.io/depictions/notificationsfirst/index.html
+Name: NotificationsFirst
